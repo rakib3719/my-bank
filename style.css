@@ -1,0 +1,41 @@
+.form {
+	margin-top: 50px;
+	box-shadow: 1px 3px 8px 0px gray;
+	padding: 20px 20px;
+	border-radius: 10px;
+   
+}
+.input-1st{
+   margin-top: 37px;
+}
+.btn{margin-top: 30px;}
+
+.crd{
+  
+	padding: 17px 26px;
+	margin-top: 71px;
+	border-radius: 16px;
+}
+#deposit{
+
+    background-color: orange;
+}
+#widthdraw{background-color: cyan;}
+#balance{
+background-color: tomato;
+
+}
+
+.cord {
+	margin-top: 98px;
+	box-shadow: 1px 1px 1px 1px gray;
+	padding: 13px 28px;
+	border-radius: 12px;
+}
+.b {
+
+	margin-top: -2px;
+}
+#dashboard{
+    display: none;
+}
